@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <!-- Home Page -->
+   <url>
+      <loc>http://localhost/myproject/</loc>
+      <lastmod>2024-12-014</lastmod>
+      <priority>1.0</priority>
+   </url>
+
+   <!-- About Us Page -->
+   <url>
+      <loc>http://localhost/myproject/about</loc>
+      <lastmod>2024-12-01</lastmod>
+      <priority>0.7</priority>
+   </url>
+
+   <!-- Contact Us Page -->
+   <url>
+      <loc>http://localhost/myproject/contact</loc>
+      <lastmod>2024-12-01</lastmod>
+      <priority>0.6</priority>
+   </url>
+
+   <!-- Shop Page -->
+   <url>
+      <loc>http://localhost/myproject/shop</loc>
+      <lastmod>2024-12-01</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+   <!-- Blog Page -->
+   <url>
+      <loc>http://localhost/myproject/blog</loc>
+      <lastmod>2024-12-01</lastmod>
+      <priority>0.7</priority>
+   </url>
+
+   <!-- Cake Ki Pathsala Page -->
+   <url>
+      <loc>http://localhost/myproject/cake-ki-pathsala</loc>
+      <lastmod>2024-12-01</lastmod>
+      <priority>0.9</priority>
+   </url>
+
+   <!-- FAQs page -->
+   <url>
+      <loc>http://localhost/creamcreations/faqs/</loc>
+      <lastmod>2024-12-01</lastmod>
+      <priority>0.5</priority>
+   </url>
+</urlset>
